@@ -1,0 +1,7 @@
+source : https://graphics.cs.utah.edu/teapot/
+
+model : 2025 - Cem Yuksel model
+
+resolution : 8 (8452 triangles, 4590 vertices)
+
+credits to Cem Yuksel

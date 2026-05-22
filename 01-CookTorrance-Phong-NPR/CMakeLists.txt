@@ -8,6 +8,7 @@ add_executable(
     triangle
     src/main.cpp
     src/Shader.cpp
+    src/ObjModel.cpp
     external/gl.c
 )
 
